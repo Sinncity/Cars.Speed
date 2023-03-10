@@ -1,0 +1,15 @@
+* {
+  background: turquoise;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Button-Car {
+  font-size: 25px;
+  font-weight: 600;
+  background-color: burlywood;
+  padding: 10px;
+}
